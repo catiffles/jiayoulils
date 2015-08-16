@@ -1,0 +1,33 @@
+.banner {
+  float:left;
+  min-width: 100%;
+}
+
+.cow {
+  width: 100px;
+  height: 100px;
+}
+
+#cowone {
+  margin-top: -275px;
+}
+
+#cowtwo {
+  margin-top: -170px;
+  float: right;
+}
+
+#content {
+  height: 100px;
+  text-align: center;
+}
+
+p {
+  font-size: 24px;
+}
+
+.buttons {
+  padding: 30px 0 0 30px;
+  margin: auto;
+  text-align: center;
+}
